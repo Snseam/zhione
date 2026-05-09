@@ -6,6 +6,7 @@ This folder contains ZhiOne's public design material.
 
 - [License decision](license-decision.md)
 - [Context evolution notes](design/context-evolution-2026-05-08.md)
+- [Agent Memory Kernel split plan](design/agent-memory-kernel-split-plan-2026-05-10.md)
 
 ## Research
 
